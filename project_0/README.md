@@ -11,7 +11,7 @@
 ### Описание проекта
 Угадать загаданное компьютерное число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/anna-gruzdeva/anna-gruzdeva/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/anna-gruzdeva/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -28,7 +28,25 @@
 Учимся писать хороший код на python
 
 
-### Краткая информация о данны
+### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлению](https://github.com/anna-gruzdeva/anna-gruzdeva/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/anna-gruzdeva/sf_data_science/tree/main/project_0/README.md#Оглавление)
+
+
+### Этапы работы над проектом
+....
+
+:arrow_up:[к оглавлению](https://github.com/anna-gruzdeva/sf_data_science/tree/main/project_0/README.md#Оглавление)
+
+
+### Результаты
+....
+
+:arrow_up:[к оглавлению](https://github.com/anna-gruzdeva/sf_data_science/tree/main/project_0/README.md#Оглавление)
+
+
+### Выводы
+....
+
+:arrow_up:[к оглавлению](https://github.com/anna-gruzdeva/sf_data_science/tree/main/project_0/README.md#Оглавление)
